@@ -1,0 +1,14 @@
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\Taskkk..GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\Taskkk..AssemblyInfoInputs.cache
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\Taskkk..AssemblyInfo.cs
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\Taskkk..csproj.CoreCompileInputs.cache
+C:\C#\Taskkk\Taskkk\bin\Debug\net6.0\Taskkk..exe
+C:\C#\Taskkk\Taskkk\bin\Debug\net6.0\Taskkk..deps.json
+C:\C#\Taskkk\Taskkk\bin\Debug\net6.0\Taskkk..runtimeconfig.json
+C:\C#\Taskkk\Taskkk\bin\Debug\net6.0\Taskkk..dll
+C:\C#\Taskkk\Taskkk\bin\Debug\net6.0\Taskkk..pdb
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\Taskkk..dll
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\refint\Taskkk..dll
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\Taskkk..pdb
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\Taskkk..genruntimeconfig.cache
+C:\C#\Taskkk\Taskkk\obj\Debug\net6.0\ref\Taskkk..dll
